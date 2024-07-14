@@ -25,15 +25,15 @@ In today's competitive business landscape, data-driven decision-making is paramo
    - **MySQL Server Integration**: Detailed steps on connecting to MySQL server and exporting data from Python to MySQL Workbench were included, enabling robust querying capabilities and collaborative data analysis.
 
    - **Queries and Reports**: Executed queries to derive insights such as;
-  Top 10 Highest Revenue Generating Products: Identified products contributing significantly to overall revenue, highlighting potential areas for investment and promotion.
+  - Top 10 Highest Revenue Generating Products: Identified products contributing significantly to overall revenue, highlighting potential areas for investment and promotion.
 
-  Top 5 Highest Selling Products in Each Region: Analyzed regional sales trends to tailor marketing strategies and inventory management.
+  - Top 5 Highest Selling Products in Each Region: Analyzed regional sales trends to tailor marketing strategies and inventory management.
 
-  Month-over-Month Growth Comparison (2022 vs. 2023): Conducted time-series analysis to understand sales trends over time, pinpointing periods of growth or decline.
+  - Month-over-Month Growth Comparison (2022 vs. 2023): Conducted time-series analysis to understand sales trends over time, pinpointing periods of growth or decline.
 
-  Highest Sales Month for Each Category: Uncovered peak sales months across different product categories, guiding resource allocation and operational planning.
+  - Highest Sales Month for Each Category: Uncovered peak sales months across different product categories, guiding resource allocation and operational planning.
 
-  Subcategory with Highest Profit Growth (2023 vs. 2022): Delved into subcategory performance to identify areas where profitability significantly improved year-over-year.
+  - Subcategory with Highest Profit Growth (2023 vs. 2022): Delved into subcategory performance to identify areas where profitability significantly improved year-over-year.
 
 ### Skills Highlighted
 
