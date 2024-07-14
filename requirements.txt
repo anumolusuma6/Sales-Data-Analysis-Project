@@ -1,0 +1,9 @@
+kaggle
+pandas
+matplotlib
+seaborn
+mysql-connector-python
+sqlalchemy
+pymysql
+ipython-sql
+sqlite3
