@@ -37,7 +37,7 @@ In today's competitive business landscape, data-driven decision-making is paramo
 
 ### Skills Highlighted
 
-- **Data Analysis**: Proficiency in data cleaning, transformation, and visualization using Python (pandas, matplotlib).
+- **Data Analysis**: Proficiency in data cleaning, transformation, and visualization using Python (pandas, matplotlib, seaborn).
 - **Business Acumen**: Ability to translate data findings into actionable insights for strategic decision-making.
 - **SQL Proficiency**: Utilization of SQL for database management, querying, and generating analytical reports.
 - **Communication**: Effective presentation of complex data insights through visualizations and reports, catering to diverse stakeholders.
