@@ -24,7 +24,7 @@ In today's competitive business landscape, data-driven decision-making is paramo
    - **SQL Database**: Imported cleaned and enhanced data into SQLite3 for scalable querying and further analysis.
    - **MySQL Server Integration**: Detailed steps on connecting to MySQL server and exporting data from Python to MySQL Workbench were included, enabling robust querying capabilities and collaborative data analysis.
 
-   - **Queries and Reports**: Executed queries to derive insights such as;
+   **Queries and Reports**: Executed queries to derive insights such as;
   - Top 10 Highest Revenue Generating Products: Identified products contributing significantly to overall revenue, highlighting potential areas for investment and promotion.
 
   - Top 5 Highest Selling Products in Each Region: Analyzed regional sales trends to tailor marketing strategies and inventory management.
