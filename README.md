@@ -20,7 +20,7 @@ In today's competitive business landscape, data-driven decision-making is paramo
    - **Shipping Mode Efficiency**: Evaluated the effectiveness of shipping modes in meeting customer expectations and cost management.
    - **Correlation Matrix**: The correlation matrix, visualized using seaborn, explored relationships between discount, quantity, sale price, and profit, providing deeper insights into factors influencing business performance and profitability.
 
-3. **Database Integration**:
+3. **Database Integration**: 2 methods:
    - **SQL Database**: Imported cleaned and enhanced data into SQLite3 for scalable querying and further analysis.
    - **MySQL Server Integration**: Detailed steps on connecting to MySQL server and exporting data from Python to MySQL Workbench were included, enabling robust querying capabilities and collaborative data analysis.
 
