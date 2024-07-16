@@ -1,4 +1,4 @@
-## Project Overview: Enhancing Business Insights through Data Analysis
+## Sales Data Analysis Project Overview: Enhancing Business Insights through Data Analysis
 
 In today's competitive business landscape, data-driven decision-making is paramount for achieving growth and operational efficiency. This project delves into a comprehensive analysis of sales data sourced from Kaggle, aimed at extracting actionable insights to drive strategic business decisions.
 
